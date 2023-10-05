@@ -20,6 +20,6 @@
 ## References (if any)
 - Vuzix Blade Developer guide 
 - Vuforia C# Library for Unity
-- 30LSVP: Towards Eective On-the-go Video Learning Using OpticalHead-Mounted DisplaysASHWIN RAM and SHENGDONG ZHAO,NUS-HCI Lab, Department of Computer Science, NationalUniversity of Singapore, Singapore
+- 30LSVP: Towards Effective On-the-go Video Learning Using OpticalHead-Mounted DisplaysASHWIN RAM and SHENGDONG ZHAO,NUS-HCI Lab, Department of Computer Science, NationalUniversity of Singapore, Singapore
 - Gannouni, S., Aledaily, A., Belwafi, K. et al. Emotion detection using electroencephalography signals and a zero-time windowing-based epoch estimation and relevant electrode identification. Sci Rep 11, 7071 (2021). https://doi.org/10.1038/s41598-021-86345-5
 
