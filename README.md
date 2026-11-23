@@ -1,5 +1,11 @@
 # Group3: EyePay
 
+## 🏆 Award
+**Golden Glasses Award for Best Creativity** at the 2022 Summer Bootcamp of Future Interaction for Smart Glasses (NUS-HCI Lab, sponsored by Huawei), 23–28 May 2022.
+
+[![Golden Glasses Award for Best Creativity certificate](Award/certificate.png)](<Award/Golden Glasses Award - Best Creativity.pdf>)
+
+Certificate: [PDF](<Award/Golden Glasses Award - Best Creativity.pdf>) · [Bootcamp awards page](https://sites.google.com/comp.nus.edu.sg/bootcamp/awards)
 
 ## Project Description (max 3 lines)
 - Seamless payment procedure
